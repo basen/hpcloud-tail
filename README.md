@@ -1,3 +1,5 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=basen_hpcloud-tail&metric=alert_status)](https://sonarcloud.io/dashboard?id=basen_hpcloud-tail)
+
 # Go package for tail-ing files
 
 A Go package striving to emulate the features of the BSD `tail` program. 
