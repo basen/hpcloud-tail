@@ -1,4 +1,8 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=basen_hpcloud-tail&metric=alert_status)](https://sonarcloud.io/dashboard?id=basen_hpcloud-tail)
+# vendored source
+
+Thus fork contains fixes/alterations to the upstream repository:
+* don't log when you seek within a file
 
 # Go package for tail-ing files
 
