@@ -1,3 +1,4 @@
+
 # Go package for tail-ing files
 
 A Go package striving to emulate the features of the BSD `tail` program. 
