@@ -25,3 +25,4 @@ designed to work with log rotation tools.
 ## Windows support
 
 This package [needs assistance](https://github.com/hpcloud/tail/labels/Windows) for full Windows support.
+
